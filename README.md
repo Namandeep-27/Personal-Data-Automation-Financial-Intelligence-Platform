@@ -35,4 +35,38 @@ Key Features
 	•	Modular backend architecture for workflow automation
 	•	Scalable design for integration with external financial data sources
 
-  
+  ## Dashboard Overview
+
+![Dashboard](1.png)
+
+Centralized financial visibility across accounts, income streams, expenses, and net performance trends.
+
+## Analytics & Reporting
+
+![Analytics](2.png)
+
+Interactive charts for category wise income, expense distribution, and cash flow trends.
+
+## Quick Transaction Entry
+
+![Add Transaction](3.png)
+
+Fast manual transaction logging with categorized inputs and account mapping.
+
+## Budget Management
+
+![Budgets](4.png)
+
+Track monthly spending limits, monitor utilization, and maintain better financial discipline.
+
+## Fund Allocation Tracking
+
+![Allocations](5.png)
+
+Visual goal tracking for savings, emergency funds, charity contributions, and tax reserves.
+
+## Account Overview
+
+![Accounts](6.png)
+
+Unified view of balances across bank accounts, digital wallets, and cash positions.
